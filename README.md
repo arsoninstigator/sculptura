@@ -5,16 +5,19 @@ sculptura is a wip fully **open-source** and customized budget 3d printer made b
 ## planning
 
 ### ⋆ overview
-- inspired by the ender 3 v3 se
+- build volume: ~220x220x250mm
+- multi-color & silent operation
 - costs <250$ excluding costs of filament (im working with a bambu lab a1 mini)
-- aims for better stability, improved filament grip and reduced slipping
+- designed for printing functional decorative pieces over the industrial applications
 
 ### ⋆ desired specifications
-- build volume: ~220x220x250mm
-- running klipper
-- multicolor
-- prints pla, pla+, petg, tpu & nylon
-- more suitable ready-to-use prints for functional, creative and decorative pieces as opposed to prints for industrial applications
+- higher print resolution (0.1mm layer height capability)
+- prints pla (silk, matte, wood, marble, metal-infused), transparent petg, tpu
+- linear rails (if budget permits)
+- direct drive extruder
+- all metal hotend
+- runs klipper
+
 
 ## bill of materials
 im currently researching stuff to make a comprehensive bom with everything i would require to make my printer come to life
