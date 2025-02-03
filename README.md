@@ -12,6 +12,7 @@ sculptura is a wip fully **open-source** and customized budget 3d printer made b
 - designed for printing functional decorative pieces over the industrial applications
 
 ### ⋆ desired specifications
+- rigid braced aluminum frame + improved stability (wrt ender3 v3se)
 - higher print resolution (0.1mm layer height capability)
 - prints pla (silk, matte, wood, marble, metal-infused), transparent petg, tpu
 - cartesian (since we need precise extrusion control and cooling rather than raw speed)
