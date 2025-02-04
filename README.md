@@ -1,6 +1,6 @@
 # sculptura ☆.ᐟ
 
-sculptura is a wip fully **open-source** and customized budget 3d printer made by me (@anne on slack) **from scratch** for decorative items :D
+sculptura is a wip fully **open-source** and customized budget 3d printer made by @anne **from scratch** for slow printing smooth and precise models to be used as decorative pieces :D
 
 ## planning
 
