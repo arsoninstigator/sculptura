@@ -31,7 +31,8 @@ started my journey by researching different 3D printer motion systems. the main 
 - **[ratrig v-core 3](https://ratrig.com/)** – over budget
 
 ### ⋆ day two -  frame & motion system (time taken - 3 hours)
-to ensure stability while keeping costs low, i chose 2040 aluminum extrusions for the frame, offering a solid balance between rigidity and weight. for motion, i debated between <ins>linear rails</ins> (provide high precision and smooth movement but expensive) and <ins>pom wheels</ins> (budget-friendly and simpler to install but wear down over time): after reviewing multiple builds and cost analyses, i decided to start with pom wheels, knowing i can upgrade to linear rails later if needed. <br>
+to ensure stability while keeping costs low, i chose 2040 aluminum extrusions for the frame, offering a solid balance between rigidity and weight. for motion, i debated between <ins>linear rails</ins> (provide high precision and smooth movement but expensive) and <ins>pom wheels</ins> (budget-friendly and simpler to install but wear down over time). <br> <br> 
+after reviewing multiple builds and cost analyses, i decided to start with pom wheels, knowing i can upgrade to linear rails later if needed. <br><br>
 helpful video: [pom wheels vs. linear rails](https://youtu.be/9LVSXidVbzE?si=kI6JSTTjm1Ju_WpN)
 
 
