@@ -35,4 +35,10 @@ to ensure stability while keeping costs low, i chose 2040 aluminum extrusions fo
 after reviewing multiple builds and cost analyses, i decided to start with pom wheels, knowing i can upgrade to linear rails later if needed. <br><br>
 helpful video: [pom wheels vs. linear rails](https://youtu.be/9LVSXidVbzE?si=kI6JSTTjm1Ju_WpN)
 
+### ⋆ day three - extruder & hotend (time taken - 2 hours)
+choosing the right extruder and hotend was crucial for handling various filament types, especially for multicolor printing. i considered the bmg clone (affordable, reliable, and widely used) and orbiter 2.0 (higher filament grip and better retraction control, reducing stringing) extruders and opted for <ins>orbiter 2.0</ins> for its improved grip and lightweight design. 
+
+for the hotend, i needed something all-metal to handle a range of filaments (pla, petg, tpu, etc.). i chose the <ins>e3d v6 clone</ins>, as it provides good heat dissipation and consistent extrusion without ptfe degradation.
+
+
 
