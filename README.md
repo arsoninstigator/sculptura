@@ -40,5 +40,10 @@ choosing the right extruder and hotend was crucial for handling various filament
 
 for the hotend, i needed something all-metal to handle a range of filaments (pla, petg, tpu, etc.). i chose the <ins>e3d v6 clone</ins>, as it provides good heat dissipation and consistent extrusion without ptfe degradation.
 
+### ⋆ day four - heated bed & printed surface
+a heated bed is essential for improving first-layer adhesion and preventing warping, especially when printing with materials like petg and abs. i needed a bed that could heat quickly and evenly across the surface, so i researched different heating solutions: pcb heater beds affordable but uneven heat distribution, silicone heater pads (expensive) and aluminium heated beds (good heat retention + even heating). after comparing options, i decided on a 12v or 24v heated bed with an aluminum plate, as its cheaper and durable.
 
+a quality print surface is essential for good first-layer adhesion. i compared options of a glass bed (that's smooth but requires adhesive for some filaments) and pei-coated spring steel (that's flexible, durable w better adhesion) and textured powder coated pei (first-layer adhesion and provides a textured bottom layer) and chose the pei-coated spring steel sheet for easy print removal.
+
+reference video - [guide to pei 3d printer beds](https://youtu.be/Z7LK28tL028?si=_4-VgD_tuooDlpQ8)
 
