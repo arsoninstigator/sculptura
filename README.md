@@ -1,9 +1,10 @@
 # sculptura ☆.ᐟ
 
-sculptura is a wip fully **open-source** and customized budget 3d printer made from scratch for [infill](infill.hackclub.com) at hack club for printing smooth and precise models that are meant to to be used as decorative pieces :D
+sculptura is a wip fully **open-source** and customized budget 3d printer made from scratch for hc's [infill](infill.hackclub.com) for printing smooth, detailed and precise models that are meant to to be used as (art gallery quality) decorative pieces :D
 
 ## planning
-
+> here's the [printer repository](https://arsoninstigator/sculptura) and the [infill page](https://infill.hackclub.com/printers/sculptura/)
+> 
 ### ⋆ overview
 - build volume: ~220x220x250mm
 - multi-color & silent operation
@@ -18,7 +19,6 @@ sculptura is a wip fully **open-source** and customized budget 3d printer made f
 - cartesian (since we need precise extrusion control and cooling rather than raw speed)
 - smooth motion system + linear rails (if budget permits)
 - runs klipper
-
 
 ## bill of materials
 im currently researching stuff to make a comprehensive bom with everything i would require to make my printer come to life
