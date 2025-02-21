@@ -1,10 +1,15 @@
 # sculptura ☆.ᐟ
 
-sculptura is a wip fully **open-source** and customized budget 3d printer made from scratch for hc's [infill](infill.hackclub.com) for printing smooth, detailed and precise models that are meant to to be used as (art gallery quality) decorative pieces :D
+> username: @arsoninstigator aka @anne on the slack (she/her) <br>
+> here's the printer's [github repository](https://arsoninstigator/sculptura) and the main [infill page](https://infill.hackclub.com/printers/sculptura/) <br>
+> total time spent on this till date: 17.2 hours (as of 21/2)
+- [X] i currently / will have access to a 3d printer before 21st march (bambu a1 mini)
+
+sculptura is a wip fully **open-source** and customized budget 3d printer made from scratch for printing smooth, detailed and precise models that are meant to to be used as high quality decorative pieces (like you would see at an art gallery) :D
+
 
 ## planning
-> here's the [printer repository](https://arsoninstigator/sculptura) and the [infill page](https://infill.hackclub.com/printers/sculptura/)
-> 
+
 ### ⋆ overview
 - build volume: ~220x220x250mm
 - multi-color & silent operation
