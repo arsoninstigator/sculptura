@@ -9,6 +9,7 @@ sculptura is a wip fully **open-source** and customized budget 3d printer made f
 
 
 ## planning
+<img src="https://www.mdpi.com/polymers/polymers-14-04659/article_deploy/html/images/polymers-14-04659-g001.png">
 
 ### ⋆ overview
 - build volume: ~220x220x250mm
