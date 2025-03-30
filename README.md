@@ -42,4 +42,4 @@ continued my quest to research on more stuff and get into the details. watched a
   - hotend cooling fans
   - enclosures and filtration
 
-sketched out a wip printer and its measurements with a paper/pencil and then started working on the cad for the base and the frame with those calculations. used a combination of fusion 360 and freecad (love the open source-ness but it's not quite there yet in terms of features) and even though this wasn't the hardest part of the build, but i had to restart from scratch multiple times and do it all over again and again till i was somewhat satisfied with the results.
+sketched out a wip printer and its measurements with a paper/pencil and then started working on the **cad for the base and the frame** with those calculations. used a combination of fusion 360 and freecad (love the open source-ness but it's not quite there yet in terms of features) and even though this wasn't the hardest part of the build, but i had to restart from scratch multiple times and do it all over again and again till i was somewhat satisfied with the results.
