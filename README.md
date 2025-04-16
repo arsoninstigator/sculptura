@@ -6,7 +6,7 @@
 - [X] i currently / will have access to a 3d printer before 21st march (bambu a1 mini)
 
 ## about
-sculptura is a wip fully **open-source** and customized budget corexy 3d printer made from scratch that incorporates a p1p-style z-axis  <br>
+sculptura is a fully **open-source** and customized budget corexy 3d printer  that incorporates a p1p-style z-axis  <br>
 <b>initial aim -</b> for printing smooth, detailed and precise models that are meant to to be used as high quality decorative pieces (like you would see at an art gallery) :D
 
 ![Screenshot 2025-04-15 151731](https://github.com/user-attachments/assets/e3b74c2b-d204-4876-bf18-cc093eb02e41)
